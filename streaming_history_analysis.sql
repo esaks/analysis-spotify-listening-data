@@ -35,7 +35,6 @@ GROUP BY month
 ORDER BY month;
 
 --Top song every month
---Solution adapted from Thomas Moesl's Medium article SQL Challenge #6: Identify Top Sellers by Product Category
 CREATE OR REPLACE VIEW monthly_top_songs AS
 WITH monthly_ranked_songs AS (
 SELECT 
