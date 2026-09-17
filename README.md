@@ -26,4 +26,5 @@ These include:
 <strong>ChatGPT</strong>
 * Used to find the appropriate API to query
 * Used for debugging and formatting suggestions
+* Help navigating API authentication process
 
